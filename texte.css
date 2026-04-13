@@ -28,3 +28,7 @@ strong {
 .hidden {
     display: none;
 }
+.colonnes {
+    display: flex; 
+    justify-content: space-around;   
+}

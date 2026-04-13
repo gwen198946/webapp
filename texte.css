@@ -1,0 +1,30 @@
+body {
+    background-color: cadetblue;
+    color: brown;
+    fond-family: "roboto",
+}
+
+section {
+    border-bottom: 3px solid blue;
+}
+
+h2 {
+    color: blue;
+}
+
+strong {
+    color: blue;
+}
+
+.signature {
+    font-family: "roboto";
+    text-align: right;
+
+}
+.section-1 {
+    background-color: blueviolet;
+    padding: 0 10px 0 10px;
+}
+.hidden {
+    display: none;
+}

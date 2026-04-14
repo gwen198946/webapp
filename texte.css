@@ -32,3 +32,9 @@ strong {
     display: flex; 
     justify-content: space-around;   
 }
+
+label {
+    width: 150px;
+    text-align: right;
+    display: inline-block;
+}
